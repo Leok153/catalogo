@@ -3,3 +3,7 @@ body {
     background-color: black;
     color:whitesmoke
 }
+
+header {
+    border-bottom: solid 5px whitesmoke;
+}
